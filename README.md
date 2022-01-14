@@ -1,2 +1,2 @@
 # aula.javascript2
-recriando a página do instagram
+recriando a página da Netflix
